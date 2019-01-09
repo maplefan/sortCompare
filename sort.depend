@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1546545144 source:d:\c++\sort\main.cpp
+	"acllib.h"
+	<stdio.h>
+	<ctime>
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1545896958 source:d:\c++\sort\acllib.c
+	"acllib.h"
+	<windows.h>
+	<olectl.h>
+	<stdio.h>
+
+1426993382 d:\c++\sort\acllib.h
+	<Windows.h>
+
